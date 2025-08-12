@@ -24,7 +24,7 @@ This project focuses on analyzing **sales trends, revenue patterns, and product 
 
 ---
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 🌐 Publish to Power BI Service for web-based access.
 
@@ -41,3 +41,4 @@ This project focuses on analyzing **sales trends, revenue patterns, and product 
 ```bash
 git clone https://github.com/RITU0799/Amazon_Sales_Data_Analysis.git
 cd amazon-sales-dashboard
+
