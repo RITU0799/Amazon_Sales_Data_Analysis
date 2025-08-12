@@ -27,8 +27,11 @@ This project focuses on analyzing **sales trends, revenue patterns, and product 
 📌 Future Enhancements
 
 🌐 Publish to Power BI Service for web-based access.
+
 📲 Responsive Mobile Layout for better viewing on devices.
+
 🔍 Drillthrough Pages for in-depth product or region analysis.
+
 🧠 AI Insights using Power BI's Q&A & Cognitive Services integration.
 
 ---
